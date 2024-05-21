@@ -37,12 +37,6 @@ To create a comprehensive dashboard that meets Mathew's requirements and provide
 - Sample documentation from previous projects
 - Senior team members available for assistance and guidance if needed
 
-#### Timeline
-The project is expected to be completed within [insert timeline here]. Regular updates will be provided to ensure progress aligns with expectations.
-
-#### Communication
-Regular communication will be maintained with Mathew and other stakeholders to discuss progress, address any concerns, and ensure alignment with project goals.
-
 #### Deliverables
 - Completed Power BI dashboard meeting Mathew's requirements
 - Detailed documentation for Mathew explaining the dashboard's functionality and usage
